@@ -6,7 +6,7 @@
         <type>plugin</type> <!-- Брать из усстановочного файл xml - tag <extension type="plugin" -->
         <folder>vmpayment</folder> <!-- Брать из усстановочного файл xml - tag <extension  group="system" -->
         <element>vm_salesdrive</element> <!-- Брать из усстановочного файл xml - tag <filename plugin= -->
-        <version>1.1</version> <!-- Брать из усстановочного файл xml - tag <version> + 0.1 -->
+        <version>1.2</version> <!-- Брать из усстановочного файл xml - tag <version> + 0.1 -->
 
         <!-- <client>
         Предупреждение! Плагины и интерфейсные модули автоматически устанавливаются с клиентом сайта,
