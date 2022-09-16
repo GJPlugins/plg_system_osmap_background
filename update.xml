@@ -1,12 +1,12 @@
 <updates>
     <!-- Docs https://docs.joomla.org/Deploying_an_Update_Server -->
     <update>
-        <name>vm Sales Drive</name><!-- Брать из усстановочного файл xml - tag <name> -->
+        <name>PLG_SYSTEM_OSMAP_BACKGROUND</name><!-- Брать из усстановочного файл xml - tag <name> -->
         <description><![CDATA[Плагин для компонента com_osmap - Фоновое создание карты сайта ]]></description>
         <type>plugin</type> <!-- Брать из усстановочного файл xml - tag <extension type="plugin" -->
-        <folder>vmpayment</folder> <!-- Брать из усстановочного файл xml - tag <extension  group="system" -->
-        <element>vm_salesdrive</element> <!-- Брать из усстановочного файл xml - tag <filename plugin= -->
-        <version>1.2</version> <!-- Брать из усстановочного файл xml - tag <version> + 0.1 -->
+        <folder>system</folder> <!-- Брать из усстановочного файл xml - tag <extension  group="system" -->
+        <element>plg_system_osmap_background</element> <!-- Брать из усстановочного файл xml - tag <filename plugin= -->
+        <version>1.3</version> <!-- Брать из усстановочного файл xml - tag <version> + 0.1 -->
 
         <!-- <client>
         Предупреждение! Плагины и интерфейсные модули автоматически устанавливаются с клиентом сайта,
